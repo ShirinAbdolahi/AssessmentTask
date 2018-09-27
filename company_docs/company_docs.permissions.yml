@@ -1,0 +1,12 @@
+upload documents:
+  title: 'Upload Company Documents'
+  description: 'View the upload company documents page.'
+  restrict access: true
+view documents lists:
+  title: 'View Company Documents List'
+  description: 'View the list company documents page.'
+  restrict access: true
+view documents:
+  title: 'View Company Documents'
+  description: 'View the uploaded company documents.'
+  restrict access: true
